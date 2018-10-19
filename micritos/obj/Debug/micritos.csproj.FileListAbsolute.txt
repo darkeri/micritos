@@ -1,0 +1,6 @@
+C:\C#\micritos\micritos\bin\Debug\micritos.exe.config
+C:\C#\micritos\micritos\bin\Debug\micritos.exe
+C:\C#\micritos\micritos\bin\Debug\micritos.pdb
+C:\C#\micritos\micritos\obj\Debug\micritos.csprojResolveAssemblyReference.cache
+C:\C#\micritos\micritos\obj\Debug\micritos.exe
+C:\C#\micritos\micritos\obj\Debug\micritos.pdb
